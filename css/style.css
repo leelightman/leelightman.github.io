@@ -1208,3 +1208,7 @@ li.home-item {
   width: 100%;
   z-index: 100;
 }
+
+.mapboxgl-ctrl-top-right .mapboxgl-ctrl-group {
+  margin-top: 40px !important;
+}
