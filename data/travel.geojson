@@ -192,6 +192,18 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Inner Mongolia",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [111.66306, 40.815],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Ha'erbin",
         "country":"China",
         "year": "2014"
@@ -216,12 +228,48 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Macau",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [113.54348, 22.19816],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Haikou",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [110.33889, 20.04667],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Guangzhou",
         "country":"China",
         "year": "2014"
       },
       "geometry": {
         "coordinates": [113.25898, 23.1288],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Huangshan",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [118.1295, 30.29535],
         "type": "Point"
       }
     },
