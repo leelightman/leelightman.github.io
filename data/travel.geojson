@@ -1,0 +1,587 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rome",
+        "country":"Italy",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [12.48278, 41.89306],
+        "type": "Point"
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "title": "Milan",
+        "country":"Italy",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [9.19034, 45.46416],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Paris",
+        "country":"France",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [2.35183, 48.85658],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Madrid",
+        "country":"Spain",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [-3.69194, 40.41889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Barcelona",
+        "country":"Spain",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [2.17694, 41.3825],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Athens",
+        "country":"Greece",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [23.71667, 38],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Santorini",
+        "country":"Greece",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [25.4615, 36.3932],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Austria",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [16.37306, 48.20833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Germany",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [8.67972, 50.11361],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "London",
+        "country":"United Kingdom",
+        "year": "2008"
+      },
+      "geometry": {
+        "coordinates": [-0.1275, 51.50722],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Soeul",
+        "country":"Korea",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [127, 37.58333],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beijing",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [116.39139, 39.905],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Taiyuan",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [112.54245, 37.87326],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tibet",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [88.04913, 31.53331],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Qingdao",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [120.4, 36.11667],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dalian",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [121.61, 38.91306],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ha'erbin",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [126.63333, 45.75],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hong Kong",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [114.15861, 22.27833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Guangzhou",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [113.25898, 23.1288],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nanjing",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [118.76667, 32.05],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Suzhou",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [120.61642, 31.30401],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hangzhou",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [120.15507, 30.2741],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zhouzhuang",
+        "country":"China",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [120.845445, 31.117514],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Singapore",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [103.8, 1.3],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Malaysia",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [101.7, 3.15972],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maldives",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [73.21496, 0.549767],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anchorage",
+        "country":"Alaska",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-149.8949, 61.2163],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fairbank",
+        "country":"Alaska",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-147.7164, 64.8378],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kilimanjaro",
+        "country":"Tanzania",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [37.34038, -3.33488],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zanzibar Island",
+        "country":"Tanzania",
+        "year": "2014"
+      },
+      "geometry": {
+        "coordinates": [39.31667, -6.13333],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Honolulu Hawaii",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-157.8557, 21.3045],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chicago IL",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-87.6244, 41.8756],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "New York NY",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-73.9808, 40.7648],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Las Vegas NV",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-115.1492, 36.1663],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Charlotte NC",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-80.8431, 35.2271],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Philadelphia PA",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-75.1327, 40.0115],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pittsburgh PA",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-79.9901, 40.4417],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Washington D.C",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-77.0366, 38.895],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Detroit",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-83.0567, 42.3487],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Virginia",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-75.1327, 40.0115],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Charleston SC",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-79.9403, 32.7876],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Columbus OH",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-83.0007, 39.9623],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Francisco CA",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-122.463, 37.7648],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Los Angeles CA",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-118.2439, 34.0544],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Phoenix AZ",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-112.0773, 33.4486],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Houston TX",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-95.3677, 29.7589],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seattle WA",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-122.3301, 47.6038],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Miami FL",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-80.1937, 25.7743],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Atlanta GA",
+        "country":"USA",
+        "year": "2019"
+      },
+      "geometry": {
+        "coordinates": [-84.3902, 33.7491],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

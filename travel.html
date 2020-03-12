@@ -125,6 +125,27 @@
           disable = false;
         }
       });
+      mapBase.on("load", function() {
+        mapBase.addSource("travel", {
+          type: "geojson",
+          data: "data/travel.geojson", // replace this with the url of your own geojson
+          generateId: true
+        });
+        mapBase.addLayer({
+          id: "travel",
+          type: "circle",
+          source: "travel",
+          layout: {
+            visibility: "visible"
+          },
+          paint: {
+            "circle-radius": 7,
+            "circle-color": "#008000",
+            "circle-stroke-width": 0,
+            "circle-opacity": 0.5
+          }
+        });
+      });
     </script>
   </body>
 </html>
