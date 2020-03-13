@@ -244,6 +244,15 @@ section {
   height: auto;
 }
 
+#skills .col-md-4 h2 {
+  padding-top: 10px;
+}
+#skills .col-md-4 p {
+  margin-top: 10px;
+  padding-top: 5px;
+  border-top: 2px solid white;
+}
+
 /* 05. Footer
  * =================================================================== */
 
