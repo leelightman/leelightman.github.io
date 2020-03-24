@@ -68,7 +68,7 @@ h3,
 h4 {
   font-family: "Dosis", arial, tahoma, verdana;
   font-weight: 500;
-  font-size: 30px;
+  font-size: 24px;
 }
 
 .project-name {
@@ -180,6 +180,7 @@ header .social .btn {
   color: #fff;
   margin: -20px -20px 0 -20px;
   font-weight: 300;
+  font-size: 20px;
   -webkit-border-radius: 3px 3px 0 0;
   -moz-border-radius: 3px 3px 0 0;
   -ms-border-radius: 3px 3px 0 0;
